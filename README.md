@@ -23,3 +23,7 @@ No terminal:
 ```bash
       python navegação.py
 ```
+
+# Resultado
+
+Navegação:
