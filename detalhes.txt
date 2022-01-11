@@ -1,0 +1,11 @@
+- Criar o ambiente virtual
+- Criar o arquivo navegação
+    - Abrir o navegador no site mercado livre
+    - buscar por mouse recarregavel
+    - Escolher a vigézima quinta posição
+    - Capturar o nome, preço e avaliação
+    - voltar 
+    - buscar por teclado redragon
+    - Escolher a primeira posição
+    - Capturar o nome, preço e avaliação
+- Fechar o navegador
