@@ -31,3 +31,9 @@ Navegação:
 <span>
       <img src="https://user-images.githubusercontent.com/85804895/148860633-e7e3b4b9-b14e-490f-bb4c-e7b43348c3ad.gif">
 </span>
+
+Terminal:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/148860832-f5b424e7-356d-45f8-b29d-a57e9a5ece96.png">
+</span>
