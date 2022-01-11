@@ -17,3 +17,9 @@ No terminal:
 ```bash
       pip install -r requirements.txt
 ```
+
+# Rodar a aplicação
+
+```bash
+      python navegação.py
+```
